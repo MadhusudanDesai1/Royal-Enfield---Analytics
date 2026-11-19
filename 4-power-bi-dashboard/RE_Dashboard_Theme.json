@@ -1,0 +1,17 @@
+{
+  "name": "RE Dashboard",
+  "dataColors": ["#B3202A", "#B08D57", "#2B2B2B", "#8A8680", "#D9A441", "#5E6B52", "#8C3B3B", "#C9C2B2"],
+  "background": "#FEFEFE",
+  "foreground": "#1B1B1B",
+  "tableAccent": "#B3202A",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": false }],
+        "border": [{ "show": false }],
+        "title": [{ "show": false }],
+        "visualHeader": [{ "show": false }]
+      }
+    }
+  }
+}
